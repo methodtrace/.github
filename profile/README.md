@@ -11,6 +11,8 @@ Work spans streaming and connected-TV advertising systems, measurement and accou
 | Repository | Paper | Release | Archive |
 |---|---|---|---|
 | [2026-dai-timing](https://github.com/methodtrace/2026-dai-timing) | Trigger Timing, Deadline Readiness, and Event-Aligned Accounting for Dynamic Ad Insertion | `1.0.0` | DOI pending release |
+| [2026-inverse-knapsack-hull-pairs](https://github.com/methodtrace/2026-inverse-knapsack-hull-pairs) | Inverse knapsack at two capacities: which pairs of value–cardinality
+hulls are realisable? | `1.0.0` | DOI pending release |
 
 ## Conventions
 
