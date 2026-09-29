@@ -1,4 +1,10 @@
-![methodtrace](https://raw.githubusercontent.com/methodtrace/.github/main/assets/methodtrace-lockup.svg)
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/methodtrace/.github/main/assets/methodtrace-banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/methodtrace/.github/main/assets/methodtrace-banner-light.svg">
+    <img alt="methodtrace" width="440" src="https://raw.githubusercontent.com/methodtrace/.github/main/assets/methodtrace-banner-light.svg">
+  </picture>
+</p>
 
 Reproduction and verification artifacts for published and preprinted research papers.
 
