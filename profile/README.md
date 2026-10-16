@@ -10,20 +10,22 @@ Reproduction and verification artifacts for published and preprinted research pa
 
 Each repository here corresponds to one paper and holds what is needed to check that paper's results independently: source, configuration and reproduction instructions, plus, depending on the paper, fixed seeds and generated records (simulation studies), exact certificates and a verifier (mathematical results), or, for papers without executable code, the datasets, protocols and extraction tables behind the reported results. Repositories are frozen at a release tag matching the paper revision they support, and each tagged release is archived with a version DOI.
 
-Papers span applied work on streaming and connected-TV advertising systems and measurement, and mathematical work in combinatorial optimization. Authors vary by paper.
+Papers span applied work on streaming and connected-TV advertising systems and measurement, and mathematical work in combinatorial optimization, commutative algebra and probability. Authors vary by paper.
 
 ## Repositories
 
 | Repository | Paper | Field | Record | Release |
 | --- | --- | --- | --- | --- |
 | [2026-dai-timing](https://github.com/methodtrace/2026-dai-timing) | Trigger Timing, Deadline Readiness, and Event-Aligned Accounting for Dynamic Ad Insertion | Multimedia systems | [arXiv:2609.19899](https://arxiv.org/abs/2609.19899) | `1.0.0` · [doi.org/10.5281/zenodo.22774143](https://doi.org/10.5281/zenodo.22774143) |
-| [2026-inverse-knapsack-hull-pairs](https://github.com/methodtrace/2026-inverse-knapsack-hull-pairs) | Inverse knapsack at two capacities: which pairs of value–cardinality hulls are realisable? | Combinatorial optimization | forthcoming | unreleased |
+| [2026-inverse-knapsack-hull-pairs](https://github.com/methodtrace/2026-inverse-knapsack-hull-pairs) | Inverse knapsack at two capacities: which pairs of value-cardinality hulls are realizable? | Combinatorial optimization | [arXiv:2609.28128](https://arxiv.org/abs/2609.28128) | `1.0.0` · [doi.org/10.5281/zenodo.22823629](https://doi.org/10.5281/zenodo.22823629) |
+| [2026-sumsets-regularity-monomial-curves](https://github.com/methodtrace/2026-sumsets-regularity-monomial-curves) | Sumsets regularity versus Castelnuovo-Mumford regularity for monomial curves | Commutative algebra | arXiv: submitted | `1.0.0` · [doi.org/10.5281/zenodo.23194227](https://doi.org/10.5281/zenodo.23194227) |
+| [2026-two-uniform-sums](https://github.com/methodtrace/2026-two-uniform-sums) | Sums of two dependent uniform random variables: a characterization by joint tail bounds | Probability | arXiv: submitted | `1.0.0` · [doi.org/10.5281/zenodo.23231387](https://doi.org/10.5281/zenodo.23231387) |
 
 ## Conventions
 
 **Naming.** `<year>-<short-slug>`, one repository per paper, no version numbers in repository names.
 
-**Records.** The Record column lists persistent identifiers only: an arXiv identifier or a DOI. Once a paper has a version of record, its DOI is listed first and the preprint identifier is kept beside it. Venues are not named before acceptance.
+**Records.** The Record column lists persistent identifiers only: an arXiv identifier or a DOI. A paper submitted to arXiv but not yet announced is marked "arXiv: submitted" until its identifier is assigned. Once a paper has a version of record, its DOI is listed first and the preprint identifier is kept beside it. Venues are not named before acceptance.
 
 **Releases.** The Release column gives the current tag and the version DOI of its archived copy. A repository with no archived release is marked unreleased. A tag is immutable once archived. Corrections appear as a new tag and a new version DOI; earlier releases are never rewritten or deleted.
 
