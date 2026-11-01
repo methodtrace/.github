@@ -21,7 +21,7 @@ Papers span applied work on streaming and connected-TV advertising systems and m
 | [2026-sumsets-regularity-monomial-curves](https://github.com/methodtrace/2026-sumsets-regularity-monomial-curves) | Sumsets regularity versus Castelnuovo-Mumford regularity for monomial curves | Commutative algebra | [arXiv:2610.24121](https://arxiv.org/abs/2610.24121) | `1.0.0` · [doi.org/10.5281/zenodo.23194227](https://doi.org/10.5281/zenodo.23194227) |
 | [2026-two-uniform-sums](https://github.com/methodtrace/2026-two-uniform-sums) | Sums of two dependent uniform random variables: a characterization by joint tail bounds | Probability | [arXiv:2610.24197](https://arxiv.org/abs/2610.24197) | `1.0.0` · [doi.org/10.5281/zenodo.23231387](https://doi.org/10.5281/zenodo.23231387) |
 | [2026-doubly-stochastic-xray-facets](https://github.com/methodtrace/2026-doubly-stochastic-xray-facets) | Facets of the X-ray polytope of doubly stochastic matrices | Combinatorics | [arXiv:2610.30058](https://arxiv.org/abs/2610.30058) | `1.0.0` · [doi.org/10.5281/zenodo.23440726](https://doi.org/10.5281/zenodo.23440726) |
-
+| [2026-vast-client-conformance](https://github.com/methodtrace/2026-vast-client-conformance) | Do Open-Source Video Ad Clients Follow VAST 4.3? An Empirical Study of Player Conformance | Software Engineering | [arXiv:2610.39093](https://arxiv.org/abs/2610.39093) | `1.0.0` · [doi.org/10.5281/zenodo.23581408](https://doi.org/10.5281/zenodo.23581408) · [Online Resource - Browsable Verdicts](https://methodtrace.github.io/2026-vast-client-conformance)|
 ## Conventions
 
 **Naming.** `<year>-<short-slug>`, one repository per paper, no version numbers in repository names.
